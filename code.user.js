@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Github CI Open in New Tab
+// @name         Github Enchancer
 // @namespace    https://github.com/ZendyLim/GithubEnhancer
-// @version      1.0.0
-// @description  Open CI details in Github PR page in new tab
+// @version      1.0.1
+// @description  Enhance Github experience
 // @author       Zendy Lim
 // @match        https://github.com/givery-technology/codecheck-backend/pull/*
 // @grant        none
