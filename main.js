@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Github CI Open in New Tab
-// @namespace    http://tampermonkey.net/
-// @version      1.0
+// @namespace    https://github.com/ZendyLim/GithubEnhancer
+// @version      1.0.0
 // @description  Open CI details in Github PR page in new tab
 // @author       Zendy Lim
 // @match        https://github.com/givery-technology/codecheck-backend/pull/*
